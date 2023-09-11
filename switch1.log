@@ -1,0 +1,55 @@
+
+
+18:32:15.830540
+Register Request Sent
+
+
+18:32:17.236422
+Register Response received
+
+
+18:32:17.236976
+Routing Update
+1,0:0
+1,1:1
+1,2:2
+1,3:2
+1,4:4
+1,5:0
+Routing Complete
+
+
+12:36:04.552798
+Register Request Sent
+
+
+12:37:17.302665
+Register Request Sent
+
+
+12:37:17.660552
+Register Response received
+
+
+12:37:17.660704
+Routing Update
+1,0:0
+1,1:1
+1,2:2
+Routing Complete
+
+
+12:38:00.294288
+Register Request Sent
+
+
+12:38:00.655625
+Register Response received
+
+
+12:38:00.655867
+Routing Update
+1,0:0
+1,1:1
+1,2:2
+Routing Complete

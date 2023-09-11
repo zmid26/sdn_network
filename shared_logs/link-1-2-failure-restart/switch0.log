@@ -1,0 +1,86 @@
+17:52:20.241648
+Register Request Sent
+
+
+17:52:54.067399
+Register Response Received 
+
+
+17:52:54.138955
+Routing Update 
+0,0:0
+0,1:1
+0,2:1
+Routing Complete 
+
+
+17:52:56.187898
+Routing Update 
+0,0:0
+0,1:1
+0,2:2
+Routing Complete 
+
+
+17:53:00.154748
+Routing Update 
+0,0:0
+0,1:1
+0,2:2
+Routing Complete 
+
+
+17:53:12.089149
+Neighbor Dead 1
+
+
+17:53:12.175924
+Routing Update 
+0,0:0
+0,1:-1
+0,2:2
+Routing Complete 
+
+
+17:53:21.972982
+Routing Update 
+0,0:0
+0,1:1
+0,2:1
+Routing Complete 
+
+
+17:53:22.130283
+Routing Update 
+0,0:0
+0,1:1
+0,2:1
+Routing Complete 
+
+
+17:53:22.201339
+Routing Update 
+0,0:0
+0,1:-1
+0,2:2
+Routing Complete 
+
+
+17:53:23.957960
+Neighbor Alive 1
+
+
+17:53:24.044716
+Routing Update 
+0,0:0
+0,1:1
+0,2:1
+Routing Complete 
+
+
+17:53:24.079187
+Routing Update 
+0,0:0
+0,1:1
+0,2:1
+Routing Complete 

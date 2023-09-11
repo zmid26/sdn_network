@@ -1,0 +1,193 @@
+
+
+18:19:15.751713
+Register Request 0
+
+
+18:19:16.614474
+Register Request 2
+
+
+18:19:17.038052
+Register Request 3
+
+
+18:19:17.475929
+Register Request 4
+
+
+18:19:17.948427
+Register Request 5
+
+
+18:32:15.485683
+Register Request 0
+
+
+18:32:15.830607
+Register Request 1
+
+
+18:32:16.180640
+Register Request 2
+
+
+18:32:16.524008
+Register Request 3
+
+
+18:32:16.884310
+Register Request 4
+
+
+18:32:17.236056
+Register Request 5
+
+
+18:32:17.236155
+Register Response 0
+
+
+18:32:17.236220
+Register Response 1
+
+
+18:32:17.236267
+Register Response 2
+
+
+18:32:17.236329
+Register Response 3
+
+
+18:32:17.236372
+Register Response 4
+
+
+18:32:17.236415
+Register Response 5
+
+
+18:32:17.236746
+Routing Update
+0,0:0,0
+0,1:1,100
+0,2:1,150
+0,3:3,200
+0,4:1,280
+0,5:5,80
+1,0:0,100
+1,1:1,0
+1,2:2,50
+1,3:2,100
+1,4:4,180
+1,5:0,180
+2,0:1,150
+2,1:1,50
+2,2:2,0
+2,3:3,50
+2,4:3,150
+2,5:5,150
+3,0:0,200
+3,1:2,100
+3,2:2,50
+3,3:3,0
+3,4:4,100
+3,5:2,200
+4,0:1,280
+4,1:1,180
+4,2:3,150
+4,3:3,100
+4,4:4,0
+4,5:3,300
+5,0:0,80
+5,1:0,180
+5,2:2,150
+5,3:2,200
+5,4:2,300
+5,5:5,0
+Routing Complete
+
+
+12:36:04.191893
+Register Request 0
+
+
+12:36:04.552892
+Register Request 1
+
+
+12:37:16.957021
+Register Request 0
+
+
+12:37:17.302736
+Register Request 1
+
+
+12:37:17.660183
+Register Request 2
+
+
+12:37:17.660270
+Register Response 0
+
+
+12:37:17.660339
+Register Response 1
+
+
+12:37:17.660385
+Register Response 2
+
+
+12:37:17.660549
+Routing Update
+0,0:0,0
+0,1:1,20
+0,2:2,10
+1,0:0,20
+1,1:1,0
+1,2:2,30
+2,0:0,10
+2,1:1,30
+2,2:2,0
+Routing Complete
+
+
+12:37:59.934313
+Register Request 0
+
+
+12:38:00.294365
+Register Request 1
+
+
+12:38:00.654993
+Register Request 2
+
+
+12:38:00.655076
+Register Response 0
+
+
+12:38:00.655351
+Register Response 1
+
+
+12:38:00.655410
+Register Response 2
+
+
+12:38:00.655738
+Routing Update
+0,0:0,0
+0,1:1,20
+0,2:2,10
+1,0:0,20
+1,1:1,0
+1,2:2,30
+2,0:0,10
+2,1:1,30
+2,2:2,0
+Routing Complete
